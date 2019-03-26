@@ -1,0 +1,2 @@
+https://www.idalko.com/jira-bitbucket-integration/
+https://confluence.atlassian.com/bitbucketserver/workflow-strategies-in-bitbucket-server-776639944.html
